@@ -1,0 +1,22 @@
+{
+  "title": "CCPATPG",
+  "description": "aaa",
+  "artist": "Colm's Comic",
+  "author": "Colm's Comic",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "1-2",
+      "volume": "",
+      "last_updated": "1773509572",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/v6cfskywg34a1.png?width=2160&format=png&auto=webp&s=dd3c5666b6f179a5748856461f4a0cca9ce85199",
+          "https://preview.redd.it/se4uobsyg34a1.png?width=2160&format=png&auto=webp&s=14606d754a4fe20de601acd3a38464bd444465fb",
+          "https://preview.redd.it/vqztpzn0h34a1.png?width=2160&format=png&auto=webp&s=36e5aa7c5cd43ffaa225614c4535a836308e994c",
+          "https://preview.redd.it/g2gkmvq1h34a1.png?width=2160&format=png&auto=webp&s=91b1b069e0b7981172006a84101b42fce80afd1c"
+        ]
+      }
+    }
+  }
+}
