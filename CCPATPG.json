@@ -1,18 +1,27 @@
 {
   "title": "CCPATPG",
-  "description": "An assembled collection of Colm's Comic's    P○KEM○N Adventures: The Previous Generation.\nAll the links are picked up from Reddit.\nPlease support the artist:\nhttp://instagram.com/colmscomics/\nhttp://patreon.com/colmscomics\nhttps://www.webtoons.com/en/challenge/colmscomics/list?title_no=501823",
+  "description": "An assembled collection of Colm's Comic's    P○KEM○N Adventures: The Previous Generation, for ease of consumption.\nAll the links are picked up from Reddit.\nPlease support the artist:\nhttp://instagram.com/colmscomics/\nhttp://patreon.com/colmscomics\nhttps://www.webtoons.com/en/challenge/colmscomics/list?title_no=501823",
   "artist": "Colm's Comics",
   "author": "Colm's Comics",
   "cover": "https://preview.redd.it/v6cfskywg34a1.png?width=2160&format=png&auto=webp&s=dd3c5666b6f179a5748856461f4a0cca9ce85199",
   "chapters": {
     "1": {
-      "title": "1-2",
+      "title": "1",
       "volume": "",
       "last_updated": "1773509572",
       "groups": {
         "Colm's Comics": [
           "https://preview.redd.it/v6cfskywg34a1.png?width=2160&format=png&auto=webp&s=dd3c5666b6f179a5748856461f4a0cca9ce85199",
-          "https://preview.redd.it/se4uobsyg34a1.png?width=2160&format=png&auto=webp&s=14606d754a4fe20de601acd3a38464bd444465fb",
+          "https://preview.redd.it/se4uobsyg34a1.png?width=2160&format=png&auto=webp&s=14606d754a4fe20de601acd3a38464bd444465fb"
+        ]
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1773546781",
+      "groups": {
+        "Colm's Comics": [
           "https://preview.redd.it/vqztpzn0h34a1.png?width=2160&format=png&auto=webp&s=36e5aa7c5cd43ffaa225614c4535a836308e994c",
           "https://preview.redd.it/g2gkmvq1h34a1.png?width=2160&format=png&auto=webp&s=91b1b069e0b7981172006a84101b42fce80afd1c"
         ]
@@ -26,6 +35,846 @@
         "Colm's Comics": [
           "https://preview.redd.it/9oe2ow7j494a1.png?width=2160&format=png&auto=webp&s=b890540c5175c415000025d8efda4ae3f5f9bd2a",
           "https://preview.redd.it/b3l01upk494a1.png?width=2160&format=png&auto=webp&s=7f6bfdc0d21e37e1c543988bee240fdf1411a75e"
+        ]
+      }
+    },
+    "4": {
+      "title": "4",
+      "volume": "",
+      "last_updated": "1773546701",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/zmwxoj5c7g4a1.png?width=2160&format=png&auto=webp&s=7b35bcda65b5053b02d51a70173fd205c1957515",
+          "https://preview.redd.it/ibdjqkec7g4a1.png?width=2160&format=png&auto=webp&s=562b6f90300b6dfa89a1ac4b6cf10afb7e2ec0e0",
+          "https://preview.redd.it/jsfltfnc7g4a1.png?width=2160&format=png&auto=webp&s=7b251b342d3a3977a8b5af426dff3df71548e43c"
+        ]
+      }
+    },
+    "5": {
+      "title": "5",
+      "volume": "",
+      "last_updated": "1773546722",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/h54bc11ggn4a1.png?width=2160&format=png&auto=webp&s=2867787d8325ec0cfd938950d7534bc1218f5323",
+          "https://preview.redd.it/inxtg1aggn4a1.png?width=2160&format=png&auto=webp&s=f04d3f054017030b14e3b1ac42bb32c8a2134b16"
+        ]
+      }
+    },
+    "6": {
+      "title": "6",
+      "volume": "",
+      "last_updated": "1773546768",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/0uur75gggn4a1.png?width=2160&format=png&auto=webp&s=be462e959c575db1ba157ede55ecaf0f476835b4",
+          "https://preview.redd.it/bdd6islggn4a1.png?width=2160&format=png&auto=webp&s=c715f019831baaa84688e7611895963e5a69890c",
+          "https://preview.redd.it/vf8g93sggn4a1.png?width=2160&format=png&auto=webp&s=347e80839c6c2bb1016673347c1b7714de41278e"
+        ]
+      }
+    },
+    "7": {
+      "title": "7",
+      "volume": "",
+      "last_updated": "1773546805",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/01xlyb87ju4a1.png?width=2160&format=png&auto=webp&s=2f6f2ee6f76e4422d0378fca94d63787cbb215eb",
+          "https://preview.redd.it/rbb7jpf7ju4a1.png?width=2160&format=png&auto=webp&s=b9eb50ed454dc18521dc38f1abc30cf3f2ea197d",
+          "https://preview.redd.it/6zmn96m7ju4a1.png?width=2160&format=png&auto=webp&s=971046b074c3b83214bd1e093b630670a7667727"
+        ]
+      }
+    },
+    "8": {
+      "title": "8",
+      "volume": "",
+      "last_updated": "1773546843",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/2uojuhobj25a1.png?width=2160&format=png&auto=webp&s=10bc2703b4b987540f9cd7820fcd7f06dd8d695d",
+          "https://preview.redd.it/26sb5iwbj25a1.png?width=2160&format=png&auto=webp&s=0729005f99c2736401cc39ff86e75114107d53d5",
+          "https://preview.redd.it/1bjwx33cj25a1.png?width=2160&format=png&auto=webp&s=6e07e26f4319824411e6a9e45758f4e3fbea3c89"
+        ]
+      }
+    },
+    "9": {
+      "title": "9",
+      "volume": "",
+      "last_updated": "1773546858",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/4a42sbdoxf5a1.png?width=2160&format=png&auto=webp&s=6ca36c3da518368a0200f5c36e9c398c719f8f6e",
+          "https://preview.redd.it/khw5xakoxf5a1.png?width=2160&format=png&auto=webp&s=282dda22781224f83f7390bece1b3b4218cb208c"
+        ]
+      }
+    },
+    "10": {
+      "title": "10",
+      "volume": "",
+      "last_updated": "1773546878",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/dw9ppu2s6n5a1.png?width=800&format=png&auto=webp&s=24329f7ba73df7d5c6b3ff22402c13eee24d7c0d",
+          "https://preview.redd.it/xo5wkp2s6n5a1.png?width=800&format=png&auto=webp&s=59122942c1f00a1cb2b4b3f164e11d72c3a49671"
+        ]
+      }
+    },
+    "11": {
+      "title": "11",
+      "volume": "",
+      "last_updated": "1773546894",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/5g5hgt2s6n5a1.png?width=800&format=png&auto=webp&s=7f8ef5382cccfa312b71685ec4bdcfa74017f437",
+          "https://preview.redd.it/m3elaq2s6n5a1.png?width=800&format=png&auto=webp&s=2f8f8a05b2593e9bc6fbd4d5b8a9045507fdbd08",
+          "https://preview.redd.it/lcbf1q2s6n5a1.png?width=800&format=png&auto=webp&s=c6667b724d063208414ac868530ab92897b04efc"
+        ]
+      }
+    },
+    "12": {
+      "title": "12",
+      "volume": "",
+      "last_updated": "1773546995",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/fwpvtvdbdu5a1.png?width=2160&format=png&auto=webp&s=a27394e98489b0edd6aa2492fb5aa001130294bf",
+          "https://preview.redd.it/f5r2uq4cdu5a1.png?width=2160&format=png&auto=webp&s=f7912fe268346a550a87e9b7de2456da53c0d468"
+        ]
+      }
+    },
+    "13": {
+      "title": "13",
+      "volume": "",
+      "last_updated": "1773547063",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/tay5ahxpe16a1.png?width=2160&format=png&auto=webp&s=d18da89bef3a899463fc1faf7e90d801b5ef9692",
+          "https://preview.redd.it/7qr2j2mre16a1.png?width=2160&format=png&auto=webp&s=4ef970e2a167c575e7a332fb9729d8c5f55d16bc",
+          "https://preview.redd.it/aj1pt5zse16a1.png?width=2160&format=png&auto=webp&s=c9a82f4eeb1be1dbb7074e2c4859ba8e02146a7e"
+        ]
+      }
+    },
+    "14": {
+      "title": "14",
+      "volume": "",
+      "last_updated": "1773547083",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/6i7osqtte16a1.png?width=2160&format=png&auto=webp&s=5ec70fc2090b0643b02adc213db10134555e0956",
+          "https://preview.redd.it/zemv20eue16a1.png?width=2160&format=png&auto=webp&s=e0bab7bc6f79534809a75c9470fc832be1f1d782",
+          "https://preview.redd.it/6u2u5czue16a1.png?width=2160&format=png&auto=webp&s=cd9e492274629fa3ce898ebecfbf0c459253df32"
+        ]
+      }
+    },
+    "15": {
+      "title": "15",
+      "volume": "",
+      "last_updated": "1773547103",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/m3q0awo8j86a1.png?width=2160&format=png&auto=webp&s=bf9a6b7f14a54f080b7e598af437e768188457c3",
+          "https://preview.redd.it/auo36k8aj86a1.png?width=2160&format=png&auto=webp&s=04775a3b083d2dabeb33e47557ab8a495d2ee4ce",
+          "https://preview.redd.it/a1pubmzaj86a1.png?width=2160&format=png&auto=webp&s=dc40f0595da6e5d0ec25b261e679cd63b62a38ae"
+        ]
+      }
+    },
+    "16": {
+      "title": "16",
+      "volume": "",
+      "last_updated": "1773547132",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/plx1aajxpf6a1.png?width=2160&format=png&auto=webp&s=8c487cb06d759a2aa590151384eaa6c70aff41ca",
+          "https://preview.redd.it/vixvqxhypf6a1.png?width=2160&format=png&auto=webp&s=1fbbd35a56df262ab999e581e2674186499e035a",
+          "https://preview.redd.it/837ser5zpf6a1.png?width=2160&format=png&auto=webp&s=6445585a71e19f5fccc193b2486e9ec7a07d0d74"
+        ]
+      }
+    },
+    "17": {
+      "title": "17",
+      "volume": "",
+      "last_updated": "1773547140",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/qxweey35pn6a1.png?width=2160&format=png&auto=webp&s=0365aac24e29e2a260788213bff9dd8da7954d26",
+          "https://preview.redd.it/4al8fza5pn6a1.png?width=2160&format=png&auto=webp&s=323f23e04daf451489dacffcdf8f6e21a39767ad",
+          "https://preview.redd.it/uoua30i5pn6a1.png?width=2160&format=png&auto=webp&s=dc2fabbea7909818f22280482e991c074e77805e",
+          "https://preview.redd.it/89wsm4p5pn6a1.png?width=2160&format=png&auto=webp&s=5745c96c4af1ca4e70a5fb76886932a1c6649dd2"
+        ]
+      }
+    },
+    "18": {
+      "title": "18",
+      "volume": "",
+      "last_updated": "1773547170",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/jl1kpuzput6a1.png?width=2160&format=png&auto=webp&s=726791e919e95804dded4b925ba66e0d6c7a9c12",
+          "https://preview.redd.it/22cscm1rut6a1.png?width=2160&format=png&auto=webp&s=f2b0de9926632ed438c87713af8c8476003e87e8",
+          "https://preview.redd.it/18zci0esut6a1.png?width=2160&format=png&auto=webp&s=c06a70a1570e53f6d7496217d911c15e37d99372",
+          "https://preview.redd.it/uxp5e50tut6a1.png?width=2160&format=png&auto=webp&s=780d0a40181d189ed61f924bbfb3e77e95c0cba7"
+        ]
+      }
+    },
+    "19": {
+      "title": "19",
+      "volume": "",
+      "last_updated": "1773547188",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/i481t5tog17a1.png?width=2160&format=png&auto=webp&s=40c3c43d0b8c40f57069a387d0b2b4b066b03f29",
+          "https://preview.redd.it/yc631etog17a1.png?width=2160&format=png&auto=webp&s=f8641a1d5cc1f5a35e47634907893cd8db272004",
+          "https://preview.redd.it/odaauitog17a1.png?width=2160&format=png&auto=webp&s=f5fa8b35365906b2602b8117c1d9d384e8ed2dc5",
+          "https://preview.redd.it/a1gr1itog17a1.png?width=2160&format=png&auto=webp&s=a0fd5b05159055fe9770968de433ba6f435d338f",
+          "https://preview.redd.it/khhs6htog17a1.png?width=2160&format=png&auto=webp&s=7ce748ba4446729e0fcc7ae63aef4ddd4a8e9e3d"
+        ]
+      }
+    },
+    "20": {
+      "title": "20",
+      "volume": "",
+      "last_updated": "1773547420",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/a6zth3nvx97a1.png?width=2160&format=png&auto=webp&s=69ca6c647915a680955b054fc743f8881f46d7f0",
+          "https://preview.redd.it/v8yfkbuvx97a1.png?width=2160&format=png&auto=webp&s=1cb0d2c1c00c490382756bd9dcc21422a633928a",
+          "https://preview.redd.it/0siode1wx97a1.png?width=2160&format=png&auto=webp&s=b3f47ef4dcb8f09e90493102b3fbc500a9418cf1"
+        ]
+      }
+    },
+    "21": {
+      "title": "21",
+      "volume": "",
+      "last_updated": "1773547495",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/oup5gdcvkf7a1.png?width=2160&format=png&auto=webp&s=63c96cb7686432d907685b14b7bc33eb2310612e",
+          "https://preview.redd.it/eemvgukvkf7a1.png?width=2160&format=png&auto=webp&s=3d6308c0ec190bb06963105500126c6a9a2d4143",
+          "https://preview.redd.it/nij50jrvkf7a1.png?width=2160&format=png&auto=webp&s=0b202e4de48f23cd60252a67353ba4008dcdfd55",
+          "https://preview.redd.it/o7n018yvkf7a1.png?width=2160&format=png&auto=webp&s=427dbecadc536ada0171f1a32109620f10fd3dd0",
+          "https://preview.redd.it/tawr0d6wkf7a1.png?width=2160&format=png&auto=webp&s=1b2e890c3c24a87db17092d8dc4e1c23dca3a680",
+          "https://preview.redd.it/nd5m8dfwkf7a1.png?width=2160&format=png&auto=webp&s=c723f06d1aacbd2245146d55dd509768d89acd51"
+        ]
+      }
+    },
+    "22": {
+      "title": "22",
+      "volume": "",
+      "last_updated": "1773547529",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/f8hdvhsxlm7a1.png?width=2160&format=png&auto=webp&s=ff4bae9f44b1e829ff3c0ad1bdf8c3ea13676be9",
+          "https://preview.redd.it/phqevb1ylm7a1.png?width=2160&format=png&auto=webp&s=f9184ae79bff34707cabb245b6425d605a0800de",
+          "https://preview.redd.it/zurm0h7ylm7a1.png?width=2160&format=png&auto=webp&s=3dd5b940d8c9e44e7f3b9f52b0a67cac119a662d"
+        ]
+      }
+    },
+    "23": {
+      "title": "23",
+      "volume": "",
+      "last_updated": "1773547572",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/yq3fiqmxyt7a1.png?width=2160&format=png&auto=webp&s=30ebbbd4670e4c242f66b9f981a2e3380250e57c",
+          "https://preview.redd.it/7jw8nvaxyt7a1.png?width=2160&format=png&auto=webp&s=cc40827a1c7a470b95f598b5fef52e94c325dba6"
+        ]
+      }
+    },
+    "24": {
+      "title": "24",
+      "volume": "",
+      "last_updated": "1773547628",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/enjk0vx9388a1.png?width=3024&format=png&auto=webp&s=b10a2cf38db52618b2bde4464966e8358fe5ce90",
+          "https://preview.redd.it/jypterca388a1.png?width=3024&format=png&auto=webp&s=5c6ca2fcf4a6e40dbc9de2245dac82cde1c906d8"
+        ]
+      }
+    },
+    "25": {
+      "title": "25",
+      "volume": "",
+      "last_updated": "1773547656",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/cbielom88f8a1.png?width=2520&format=png&auto=webp&s=90bcec79024ecde5c59d06d7cf39dee761c0d446",
+          "https://preview.redd.it/zcagivy88f8a1.png?width=2520&format=png&auto=webp&s=770c07a83f8f9be75f2a344101d0a81c9d87ee97",
+          "https://preview.redd.it/cqufnt798f8a1.png?width=2520&format=png&auto=webp&s=fd1b42ab888145847e0e8ea9cb1d68f0beb367e9"
+        ]
+      }
+    },
+    "26": {
+      "title": "26",
+      "volume": "",
+      "last_updated": "1773547677",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/bdj2g4499m8a1.png?width=2520&format=png&auto=webp&s=fbdbb46e300b00e69c6c72a517db2a07c44d2155",
+          "https://preview.redd.it/56upmxf99m8a1.png?width=2520&format=png&auto=webp&s=775d74ca74c0cdbd8d6e56481c1b902faf1f2f3f",
+          "https://preview.redd.it/wne06jm99m8a1.png?width=2520&format=png&auto=webp&s=07828e02d4d09c6e499c3dee6ba016122cbe6bb3",
+          "https://preview.redd.it/c80eg3s99m8a1.png?width=2520&format=png&auto=webp&s=ba1b572ba595a0ee3b2ef11221cd2eef10300fb2",
+          "https://preview.redd.it/6mmxb5w99m8a1.png?width=2520&format=png&auto=webp&s=78122e2135a2bce6fbd920b4a98a47c5a71336c0"
+        ]
+      }
+    },
+    "27": {
+      "title": "27",
+      "volume": "",
+      "last_updated": "1773547699",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/hiyc8h8xou8a1.png?width=2520&format=png&auto=webp&s=160e550f17970f0492184431dc7fd60a1404a757",
+          "https://preview.redd.it/mse5rg8xou8a1.png?width=2520&format=png&auto=webp&s=c65dc2f861536749bd7f3e2b22ed137420632af7",
+          "https://preview.redd.it/6shkj78xou8a1.png?width=2520&format=png&auto=webp&s=5213a18e55528e75c7a139471126820cf1ba3851"
+        ]
+      }
+    },
+    "28": {
+      "title": "28",
+      "volume": "",
+      "last_updated": "1773547785",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/k1d2kluhf09a1.png?width=2520&format=png&auto=webp&s=832c2765979bb9fe8749a5f2450391433f755890",
+          "https://preview.redd.it/pusvh07if09a1.png?width=2520&format=png&auto=webp&s=a3190d111ff1bb5a1e4c51fe33031852e2d68ae1",
+          "https://preview.redd.it/swtbixfif09a1.png?width=2520&format=png&auto=webp&s=88e9be7c133b27c10b6dbb61345a65768d9aab2e",
+          "https://preview.redd.it/d7nwbekif09a1.png?width=2520&format=png&auto=webp&s=ef6c32b8dbe2c6a704c483081c2b715fb5e892ec"
+        ]
+      }
+    },
+    "29": {
+      "title": "29",
+      "volume": "",
+      "last_updated": "1773547797",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/6k4bpj3o289a1.png?width=2520&format=png&auto=webp&s=e36f32e0372f589f60b9a1f63fadea1b497da835",
+          "https://preview.redd.it/qmbb3t0o289a1.png?width=2520&format=png&auto=webp&s=dcfcc06e1f16a83736516cfd2ba443ebb42bd6a8",
+          "https://preview.redd.it/uvcubr4o289a1.png?width=2520&format=png&auto=webp&s=8e9c44544fa9257bd7ef4c88796780ef528f6baa",
+          "https://preview.redd.it/00xvwq7o289a1.png?width=2520&format=png&auto=webp&s=1d65074e82e3fe9c2d36dd9c7c127947d66570e1"
+        ]
+      }
+    },
+    "30": {
+      "title": "30",
+      "volume": "",
+      "last_updated": "1773547816",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/ckpr21kkff9a1.png?width=2520&format=png&auto=webp&s=69804cd47bd82e5257fa53598e78810e32e9316e",
+          "https://preview.redd.it/yhata6wkff9a1.png?width=2520&format=png&auto=webp&s=507896869d5e1bb42125282cbce81a0bafecc193"
+        ]
+      }
+    },
+    "31": {
+      "title": "31",
+      "volume": "",
+      "last_updated": "1773547833",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/prtaldfa2m9a1.png?width=2520&format=png&auto=webp&s=ea860fdfe4b3e09429effa5bd26dff84f0647cbe",
+          "https://preview.redd.it/3mytcjpa2m9a1.png?width=2520&format=png&auto=webp&s=ea13f2073b64d87f9ae9267875a172341fb3cb8c"
+        ]
+      }
+    },
+    "32": {
+      "title": "32",
+      "volume": "",
+      "last_updated": "1773547847",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/9p7l90xu2t9a1.png?width=2520&format=png&auto=webp&s=3c9eb9a6e9a789cbe9ca698faa6c11f0f2a67db7",
+          "https://preview.redd.it/5rg8u9gx2t9a1.png?width=2520&format=png&auto=webp&s=e3069e14b218b0ea401040de4f00224462ab8d2d",
+          "https://preview.redd.it/b8fhmu0y2t9a1.png?width=2520&format=png&auto=webp&s=69a2fba51e044cfd097b7d8ad88594caf9b9ed78"
+        ]
+      }
+    },
+    "33": {
+      "title": "33",
+      "volume": "",
+      "last_updated": "1773547870",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/xk5omi2s50aa1.png?width=2520&format=png&auto=webp&s=ab6966322811b2af2d4bd2b2c16bc2a5b3097774",
+          "https://preview.redd.it/46i4vibs50aa1.png?width=2520&format=png&auto=webp&s=dc70ff7f22d1b91ea7dfbcab6a4cc46b1656174c",
+          "https://preview.redd.it/2cgm6lks50aa1.png?width=2520&format=png&auto=webp&s=0a263a58918c713e6cb13b52e95b2590132dffaf"
+        ]
+      }
+    },
+    "34": {
+      "title": "34",
+      "volume": "",
+      "last_updated": "1773547882",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/dap975sn67aa1.png?width=2520&format=png&auto=webp&s=cd95cb98d27aeabcb7eada2d6ac053496ac84685",
+          "https://preview.redd.it/1ekt521o67aa1.png?width=2520&format=png&auto=webp&s=42bb13601d337903d0b3b79d3a73964f527eea30",
+          "https://preview.redd.it/pwdi2g7o67aa1.png?width=2520&format=png&auto=webp&s=0316150b1431f8bdaa8d61ff94d6745cb34d3f49",
+          "https://preview.redd.it/f9rnzyeo67aa1.png?width=2520&format=png&auto=webp&s=988b14a5efae53ca9dcea38de1ec139a3f668e3e",
+          "https://preview.redd.it/q7k3w6wo67aa1.png?width=2520&format=png&auto=webp&s=8c48c77486c4bbb60f11870e2da24fb23aa237e0"
+        ]
+      }
+    },
+    "35": {
+      "title": "35",
+      "volume": "",
+      "last_updated": "1773547905",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/wv1eo5rg2maa1.png?width=2520&format=png&auto=webp&s=58ee920f79c4ff15b78944cd769131f7acc10ff1",
+          "https://preview.redd.it/ju1js5rg2maa1.png?width=2520&format=png&auto=webp&s=681751b54115ee5c6de9bb6bce5079c1cb5f84fe",
+          "https://preview.redd.it/45v3w7rg2maa1.png?width=2520&format=png&auto=webp&s=906efbbe1b2b5aff6472da9fcb84515724e7bf55"
+        ]
+      }
+    },
+    "36": {
+      "title": "36",
+      "volume": "",
+      "last_updated": "1773547925",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/7pxfuf39pzba1.png?width=2520&format=png&auto=webp&s=d3df33b66a9f899b924d1a90f8acdca2c7c54ec4",
+          "https://preview.redd.it/g0jvnoc9pzba1.png?width=2520&format=png&auto=webp&s=dcb4cbc804114de54456bce49f89276a2c333a0a",
+          "https://preview.redd.it/fd8mfkj9pzba1.png?width=2520&format=png&auto=webp&s=12dca1df817df6b22d07f3de7fe62624d3749591",
+          "https://preview.redd.it/3qe654s9pzba1.png?width=2520&format=png&auto=webp&s=d5351f5cead3e1b9ced59bdcbb7ec8266951a366",
+          "https://preview.redd.it/xku3i2y9pzba1.png?width=2520&format=png&auto=webp&s=1b06463bf5590ca88d17c973314340f104d87d2c"
+        ]
+      }
+    },
+    "37": {
+      "title": "37",
+      "volume": "",
+      "last_updated": "1773547952",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/p8c4pzg0ndda1.png?width=2520&format=png&auto=webp&s=301282bd5154ea5508960969fdc605a556a19854",
+          "https://preview.redd.it/46zrcap0ndda1.png?width=2520&format=png&auto=webp&s=070a8d654312c77e5d7d79e607122101fd8e2bfb",
+          "https://preview.redd.it/laosgj11ndda1.png?width=2520&format=png&auto=webp&s=97da5e45f5bdb54417672f8f2647dc401082b1bd",
+          "https://preview.redd.it/k2dkxqd1ndda1.png?width=2520&format=png&auto=webp&s=939f8fa4daffc880f7835bb251826a168dfb9f89",
+          "https://preview.redd.it/1qbwd6n1ndda1.png?width=2520&format=png&auto=webp&s=5575818e5a1c7bf9e198d8e87eef41efcf9b2a28"
+        ]
+      }
+    },
+    "38": {
+      "title": "38",
+      "volume": "",
+      "last_updated": "1773547977",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/thve0h2cwrea1.png?width=2520&format=png&auto=webp&s=aae8bcd01c21e78a4b0bbe08e3de9ab03459181c",
+          "https://preview.redd.it/mcz6w73cwrea1.png?width=2520&format=png&auto=webp&s=1a9b8f41edca0b5b22469905f8b6a054f9c3f30b",
+          "https://preview.redd.it/q3ybgl3cwrea1.png?width=2520&format=png&auto=webp&s=0ba49a97468d1d78f0f8f22e35aecb3646a14d33",
+          "https://preview.redd.it/46uken2cwrea1.png?width=2520&format=png&auto=webp&s=4449d37a6853aedb76c489b7799eb343efabbe3e"
+        ]
+      }
+    },
+    "39": {
+      "title": "39",
+      "volume": "",
+      "last_updated": "1773548001",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/n6nepz5z16ga1.png?width=2520&format=png&auto=webp&s=5dda39f5d5320779bf61c9f1286d658801e44f34",
+          "https://preview.redd.it/4bvcdofz16ga1.png?width=2520&format=png&auto=webp&s=5923126e9684f7e915ac5dfad42d7bdb73bb6837",
+          "https://preview.redd.it/1lr42plz16ga1.png?width=2520&format=png&auto=webp&s=aa0ba7fd3b1003fe93f9bc225a4f98e29e6d3d6f",
+          "https://preview.redd.it/mxfo3wqz16ga1.png?width=2520&format=png&auto=webp&s=abe359c2afacbc956e2888d90f73f867e9bb6f7f"
+        ]
+      }
+    },
+    "40": {
+      "title": "40",
+      "volume": "",
+      "last_updated": "1773548022",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/f32johrznjha1.png?width=800&format=png&auto=webp&s=d127c2eefbd069053a1ac7fa8767eaf6c88da67c",
+          "https://preview.redd.it/y08oe4xznjha1.png?width=800&format=png&auto=webp&s=4e1813b59dc9585b65af50d581de57a6adadbeab",
+          "https://preview.redd.it/nd4m0s00ojha1.png?width=800&format=png&auto=webp&s=345fdea16b882177ea3cc12a9a8d1b90be2a580a",
+          "https://preview.redd.it/edv4hf40ojha1.png?width=800&format=png&auto=webp&s=cb7258d6b472096de457e369e2d469de8717d988",
+          "https://preview.redd.it/l41s5a70ojha1.png?width=800&format=png&auto=webp&s=bcca46b9bd6f398c45a21f54e606bcb9dfaf7c7c"
+        ]
+      }
+    },
+    "41": {
+      "title": "41",
+      "volume": "",
+      "last_updated": "1773548046",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/fz3puub9yxia1.png?width=2520&format=png&auto=webp&s=6c434e4b1d23727f2497f03de12d7c9b3e2452f6",
+          "https://preview.redd.it/y66f4qp9yxia1.png?width=2520&format=png&auto=webp&s=5deb7642fd0b8d4ac1e26b198684406279621f2b",
+          "https://preview.redd.it/qmkxp93ayxia1.png?width=2520&format=png&auto=webp&s=e1935a306c74175c24fc3daa6f00aa314b01121b",
+          "https://preview.redd.it/aihphsfayxia1.png?width=2520&format=png&auto=webp&s=e9a4fb0cca636ce0406d11d0305390dc3127f844"
+        ]
+      }
+    },
+    "42": {
+      "title": "42",
+      "volume": "",
+      "last_updated": "1773548067",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/e4e5fccn3cka1.png?width=2520&format=png&auto=webp&s=410e5795748e25fd219e6e8bf9b5aff7a9166fe1",
+          "https://preview.redd.it/gv82z7nn3cka1.png?width=2520&format=png&auto=webp&s=fdeb643249a7536cf5962d8b2794d995672ef0c2",
+          "https://preview.redd.it/iag4qbyn3cka1.png?width=2520&format=png&auto=webp&s=55c0756d47d414bf5a64ffb31e8b0afa1dd1a388"
+        ]
+      }
+    },
+    "43": {
+      "title": "43",
+      "volume": "",
+      "last_updated": "1773548085",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/b1buyq3svpla1.png?width=2520&format=png&auto=webp&s=c025f7a782ae31c61b7c9a2412226bab68893ed3",
+          "https://preview.redd.it/twan4nmsvpla1.png?width=2520&format=png&auto=webp&s=c68e62f1f6670f35e23aa274d199bd45959bdaec",
+          "https://preview.redd.it/pevhwb6tvpla1.png?width=2520&format=png&auto=webp&s=7e87c2fa50151caec94afd5ef461a76e74c85ee7",
+          "https://preview.redd.it/vbiwg3qtvpla1.png?width=2520&format=png&auto=webp&s=9a4d7b4056cc49b109f3e98f4c2c606c17415676"
+        ]
+      }
+    },
+    "44": {
+      "title": "44",
+      "volume": "",
+      "last_updated": "1773548108",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/6kynvidxm3na1.png?width=2520&format=png&auto=webp&s=98ae7ce78d65f0370bf223fb149f242a5338aabf",
+          "https://preview.redd.it/w0c5qxbxm3na1.png?width=2520&format=png&auto=webp&s=1f22681e376848ccc49fc944fd66a7e3f765c205",
+          "https://preview.redd.it/6n3vv7dxm3na1.png?width=2520&format=png&auto=webp&s=63b463a28828fb38afae9a301ab4224f8c58b50c",
+          "https://preview.redd.it/nhegomcxm3na1.png?width=2520&format=png&auto=webp&s=cac42e6f03464b911265586c7b0c7f0ebd310fb1",
+          "https://preview.redd.it/cy9n1sbxm3na1.png?width=2520&format=png&auto=webp&s=abf39ed15966c0bcd043e48b76f685ac6dcff674",
+          "https://preview.redd.it/z9rquvcxm3na1.png?width=2520&format=png&auto=webp&s=462e5ed6546a05881093f551fa7309d6c34d5c22"
+        ]
+      }
+    },
+    "45": {
+      "title": "45",
+      "volume": "",
+      "last_updated": "1773548241",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/e14g2cclkhoa1.png?width=2520&format=png&auto=webp&s=df978f9a3797df1e07a754b5b7cb40a6e1d16c9c",
+          "https://preview.redd.it/80zi7dclkhoa1.png?width=2520&format=png&auto=webp&s=278ba82f0130b234fa58c386e82751496ac75c8c",
+          "https://preview.redd.it/ypsb1lqokhoa1.png?width=2520&format=png&auto=webp&s=57942fd83c97a195b8d4a65d210514186bde710e",
+          "https://preview.redd.it/a6jf0lqokhoa1.png?width=2520&format=png&auto=webp&s=03fe80b7b14bebdc986fd231a44aec13ba4e6964",
+          "https://preview.redd.it/lunl1mqokhoa1.png?width=2520&format=png&auto=webp&s=4254c389bfc6ac346510d49be50366d76be696be",
+          "https://preview.redd.it/tykh8lqokhoa1.png?width=2520&format=png&auto=webp&s=6746a9385d062b636bf6990505df8bdbd31befe8"
+        ]
+      }
+    },
+    "46": {
+      "title": "46",
+      "volume": "",
+      "last_updated": "1773548283",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/g35g5n6db9ra1.png?width=2520&format=png&auto=webp&s=c250d6af0496bd1a5f992f280e5d084b5ed0af5d",
+          "https://preview.redd.it/w1wdhq6db9ra1.png?width=2520&format=png&auto=webp&s=ec3e53284815549f901194a7a9ad92e7bbc92ca2",
+          "https://preview.redd.it/0ideqn6db9ra1.png?width=2520&format=png&auto=webp&s=43f69f3f6a47731d8227fb591197648c3c1a880d"
+        ]
+      }
+    },
+    "47": {
+      "title": "47",
+      "volume": "",
+      "last_updated": "1773548313",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/tz1ykq6db9ra1.png?width=2520&format=png&auto=webp&s=fa62beb0b97f5f7b6701deee46f847c99d013c1c",
+          "https://preview.redd.it/mozq9w6db9ra1.png?width=2520&format=png&auto=webp&s=90099b62e406c1ba0f2754eae3f627d2c767383e",
+          "https://preview.redd.it/ay0c4t6db9ra1.png?width=2520&format=png&auto=webp&s=1d8c32583fec19b13cf9b52004f9e61ed12bee39"
+        ]
+      }
+    },
+    "48": {
+      "title": "48",
+      "volume": "",
+      "last_updated": "1773548433",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/bk5occ8t6nsa1.png?width=2520&format=png&auto=webp&s=b559bb5ff3db5981beee5b94c9b3d71cb489a087",
+          "https://preview.redd.it/bufatxht6nsa1.png?width=2520&format=png&auto=webp&s=c15fee6a03c2e87ce2a358a06db6985803c070c5",
+          "https://preview.redd.it/b1kuesrt6nsa1.png?width=2520&format=png&auto=webp&s=7d3d2b2a0741bc360b95869acca5cf41b92b635a",
+          "https://preview.redd.it/7tsqq20u6nsa1.png?width=2520&format=png&auto=webp&s=96bafcb7e5bf5940f65f09084d57bb5be290bd8f",
+          "https://preview.redd.it/jctdn54u6nsa1.png?width=2520&format=png&auto=webp&s=cb4e7c0285e86a84b33a9a614882d99782985c58",
+          "https://preview.redd.it/mrw461bu6nsa1.png?width=2520&format=png&auto=webp&s=2aa65aaa2a830f86a26e6365536e83a95db9f35d",
+          "https://preview.redd.it/duqmo6nu6nsa1.png?width=2520&format=png&auto=webp&s=f420c8862e949373bfac2ce0d5014431ed104dab"
+        ]
+      }
+    },
+    "49": {
+      "title": "49",
+      "volume": "",
+      "last_updated": "1773548521",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/73hdjns851ua1.png?width=2520&format=png&auto=webp&s=04e53d1ea4964f67fcb540aef98ba666a378e824",
+          "https://preview.redd.it/4yq58py851ua1.png?width=2520&format=png&auto=webp&s=b19d7a6ad2dbd7554d6c433b3048efc387dba7ed",
+          "https://preview.redd.it/a9eh2t5951ua1.png?width=2520&format=png&auto=webp&s=269d9c82b0fbdfdde268e536130f48c0144a8b31",
+          "https://preview.redd.it/mi2a7nc951ua1.png?width=2520&format=png&auto=webp&s=c2bab54f0ac4857e8306a39f68a3e6d8684999ed"
+        ]
+      }
+    },
+    "50": {
+      "title": "50",
+      "volume": "",
+      "last_updated": "1773548533",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/p7iow3zybfva1.png?width=2520&format=png&auto=webp&s=b850191c4a991da74bdfa412589abe764c939855",
+          "https://preview.redd.it/kdvh81zybfva1.png?width=2520&format=png&auto=webp&s=4b0ce291d6e4d3edaafbc51e8de64197dfd2fa93",
+          "https://preview.redd.it/n217lzyybfva1.png?width=2520&format=png&auto=webp&s=bcb6e1a0e09811864bc2c54d0942fb101eb2e755",
+          "https://preview.redd.it/zrt7k0zybfva1.png?width=2520&format=png&auto=webp&s=4a28896fd3a3912978cf46c33eae752416e90541",
+          "https://preview.redd.it/gxhuawzybfva1.png?width=2520&format=png&auto=webp&s=165dc9e98e1f1bbdc20a87f4297951563ad14975"
+        ]
+      }
+    },
+    "51": {
+      "title": "51",
+      "volume": "",
+      "last_updated": "1773548554",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/ak3ll2go1twa1.png?width=2520&format=png&auto=webp&s=f8f603dd1505af21c179da5a518bb6dcb72c0ff0",
+          "https://preview.redd.it/reffrbpo1twa1.png?width=2520&format=png&auto=webp&s=b770f6060eea63986966d5d4458135c17265f8dd",
+          "https://preview.redd.it/cxbjxkzo1twa1.png?width=2520&format=png&auto=webp&s=ce277079f3a2943b8408018098dbc2650d92dbab",
+          "https://preview.redd.it/ynt2te5p1twa1.png?width=2520&format=png&auto=webp&s=c15a34a37ccbae00a43c4f8ca87a79177eb5457f",
+          "https://preview.redd.it/mqpq4wjp1twa1.png?width=2520&format=png&auto=webp&s=3f8c88b30c79ab2912da732825443e4b05baa4a1"
+        ]
+      }
+    },
+    "52": {
+      "title": "52",
+      "volume": "",
+      "last_updated": "1773548588",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/f7e0ds0k07ya1.png?width=2520&format=png&auto=webp&s=6deb1c96e9230c2e6981053eaf59a2cdec169493",
+          "https://preview.redd.it/6c9xdr8k07ya1.png?width=2520&format=png&auto=webp&s=8275fab7134a4a024e6d1d968f2cec352bb06ab3",
+          "https://preview.redd.it/ob0zaaik07ya1.png?width=2520&format=png&auto=webp&s=3b3109fc5e0a94fa8bfe9ce42ea253d54dc5c848",
+          "https://preview.redd.it/sqowmirk07ya1.png?width=2520&format=png&auto=webp&s=8d460701be26f8ca03e9eccee2889959a434490e",
+          "https://preview.redd.it/kudu302l07ya1.png?width=2520&format=png&auto=webp&s=bfcd847c2322bcfb38a0f3e7c45e721dfaf3cd64"
+        ]
+      }
+    },
+    "53": {
+      "title": "53",
+      "volume": "",
+      "last_updated": "1773548612",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/a73kei4lnkza1.png?width=2520&format=png&auto=webp&s=cd21f7a7c30b6e3312bf0c7579e5354e7ee91d2a",
+          "https://preview.redd.it/asw67lrlnkza1.png?width=2520&format=png&auto=webp&s=1611773eb02335a7171c84dcbce6f41eeb613fee",
+          "https://preview.redd.it/7f37xnjmnkza1.png?width=2520&format=png&auto=webp&s=09e4e114ab01d9f2bb936e2005f1630bcf8a5b5e",
+          "https://preview.redd.it/qimbfq6nnkza1.png?width=2520&format=png&auto=webp&s=5c0ad704699c2f3ccc6cd9f46e2946fae20e27cd",
+          "https://preview.redd.it/e9ssbsmnnkza1.png?width=2520&format=png&auto=webp&s=477eddf764162ea74606bd1cfd40495cd9152b13",
+          "https://preview.redd.it/c3pias0onkza1.png?width=2520&format=png&auto=webp&s=93b8d6600c7526068462fc01e029b10fcbf27a0c",
+          "https://preview.redd.it/srx20jjonkza1.png?width=2520&format=png&auto=webp&s=04905d0edb8ff3120809e9d05d3517764d790c3a",
+          "https://preview.redd.it/8mgc5r1pnkza1.png?width=2520&format=png&auto=webp&s=63a05acc46fa558fd042233ebffc5a57f3965066"
+        ]
+      }
+    },
+    "54": {
+      "title": "54",
+      "volume": "",
+      "last_updated": "1773548658",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/s6iiefcz1e2b1.png?width=800&format=png&auto=webp&s=3860d515a75ff5b34da38b5a1ad3228dd51d9161",
+          "https://preview.redd.it/hflzwugz1e2b1.png?width=800&format=png&auto=webp&s=b8c297a6a528f9ba7ea40294acc5abc7baa746bc",
+          "https://preview.redd.it/4mwnealz1e2b1.png?width=800&format=png&auto=webp&s=6de9eac04fd157fc11fba3f931343f545f0adb86",
+          "https://preview.redd.it/vcskl2qz1e2b1.png?width=800&format=png&auto=webp&s=229e455210985a4f4a67267fb622c356a06ad062",
+          "https://preview.redd.it/khc0hwtz1e2b1.png?width=800&format=png&auto=webp&s=7ebdd8b7011e59c0f772d9844574f7ad964a02f2",
+          "https://preview.redd.it/2vugfcxz1e2b1.png?width=800&format=png&auto=webp&s=7d89fac62cf1c630bda6a9c73f4a6a630b1ffb83"
+        ]
+      }
+    },
+    "55": {
+      "title": "55",
+      "volume": "",
+      "last_updated": "1773548683",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/676u5gtovr3b1.png?width=2520&format=png&auto=webp&s=d61f8efc9d6ceae249fb99648247ef78f887ba05",
+          "https://preview.redd.it/0ul0c41pvr3b1.png?width=2520&format=png&auto=webp&s=ceb0807ff3242e0c9b2a90791e4d2c1815e9c7f3",
+          "https://preview.redd.it/unwob46pvr3b1.png?width=2520&format=png&auto=webp&s=2671b769379bc3440b6c55b53892733c8136e5b9",
+          "https://preview.redd.it/8c4uikapvr3b1.png?width=2520&format=png&auto=webp&s=2f8419230e6901be04d21d8783c446bfeda1feb0"
+        ]
+      }
+    },
+    "56": {
+      "title": "56",
+      "volume": "",
+      "last_updated": "1773548701",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/3aywa35dg65b1.png?width=2520&format=png&auto=webp&s=cfcaaaa9aee7a60ccd7b378734e103da7a2b4773",
+          "https://preview.redd.it/16hgb1rdg65b1.png?width=2520&format=png&auto=webp&s=53ee6df6dfb8c6761031c4e465f35b8671544351",
+          "https://preview.redd.it/18ea2gdeg65b1.png?width=2520&format=png&auto=webp&s=d35df86837b3d24adf27647907616eda3d6c0b5c"
+        ]
+      }
+    },
+    "57": {
+      "title": "57",
+      "volume": "",
+      "last_updated": "1773548717",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/otildwff8k6b1.png?width=2520&format=png&auto=webp&s=db7f798beefa88ea69bc4b610043ff55dddac680",
+          "https://preview.redd.it/kcxtmmmf8k6b1.png?width=2520&format=png&auto=webp&s=d02473a815b6e9ba918d059abfd3b8367348959b",
+          "https://preview.redd.it/j8m0exuf8k6b1.png?width=2520&format=png&auto=webp&s=52d3adf91ca82ba13b106b01aecf947daf2e40aa"
+        ]
+      }
+    },
+    "58": {
+      "title": "58",
+      "volume": "",
+      "last_updated": "1773548732",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/iwm4ixav5y7b1.png?width=2520&format=png&auto=webp&s=1b8e6be09ee58cbfd48ac2493c888dc0ab9cb2d2",
+          "https://preview.redd.it/pxky6yov5y7b1.png?width=2520&format=png&auto=webp&s=abde9812f8a590f9f14b0593ed462add12bf1e47"
+        ]
+      }
+    },
+    "59": {
+      "title": "59",
+      "volume": "",
+      "last_updated": "1773548748",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/x39ivdqybc9b1.png?width=2520&format=png&auto=webp&s=8c588f373ebfda1506b97e539097fdf5db02f3c8",
+          "https://preview.redd.it/ybj37o7zbc9b1.png?width=2520&format=png&auto=webp&s=2383b20c16de70437c2ab9a45c783ed7b4af1858",
+          "https://preview.redd.it/1cam2xhzbc9b1.png?width=2520&format=png&auto=webp&s=5c7055699dfa5728c52d5106c0f8468350f3fdff"
+        ]
+      }
+    },
+    "60": {
+      "title": "60",
+      "volume": "",
+      "last_updated": "1773549142",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/g07ur7c914cb1.png?width=2520&format=png&auto=webp&s=53d55b96580c97e455a61106578fa5983ec3a9a4",
+          "https://preview.redd.it/dy31d8c914cb1.png?width=2520&format=png&auto=webp&s=e9df4066755d5187d70a751092b5388801b2acce",
+          "https://preview.redd.it/6fl269c914cb1.png?width=2520&format=png&auto=webp&s=3bb93e9654c6a3e92d48a267b12031d99dc60d95"
+        ]
+      }
+    },
+    "61": {
+      "title": "61",
+      "volume": "",
+      "last_updated": "1773549166",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/lsg0xzouzhdb1.png?width=2520&format=png&auto=webp&s=d8da2cc9e584263e3103f0ec33a9d6c9ec97da3b",
+          "https://preview.redd.it/397gd5puzhdb1.png?width=2520&format=png&auto=webp&s=566b605f1e5fd321126b7a0873dbd561477e6245",
+          "https://preview.redd.it/jx4f52puzhdb1.png?width=2520&format=png&auto=webp&s=dfef6d056ae783e2ccce68f470daf7082183f143"
+        ]
+      }
+    },
+    "62": {
+      "title": "62",
+      "volume": "",
+      "last_updated": "1773549183",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/ampdzcyfxveb1.png?width=2520&format=png&auto=webp&s=bd1bf2b1f312b8ae722fe79ad4f457a49b1c6713",
+          "https://preview.redd.it/bcb4eeyfxveb1.png?width=2520&format=png&auto=webp&s=07ba8f885d214cdbff8d2d64bb0067b6f5f61802",
+          "https://preview.redd.it/e35wddyfxveb1.png?width=2520&format=png&auto=webp&s=4eb5739430bed795fe15cc25a8b5d05380057779",
+          "https://preview.redd.it/pzgehdyfxveb1.png?width=2520&format=png&auto=webp&s=e77bf42306b59113f312c5748ff1560335f3fb6a"
+        ]
+      }
+    },
+    "63": {
+      "title": "63",
+      "volume": "",
+      "last_updated": "1773549202",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/xg1cama5w9gb1.png?width=2520&format=png&auto=webp&s=bcb7f8160766e785eaa8174c9cc2a1262b1ef57b",
+          "https://preview.redd.it/osecsha5w9gb1.png?width=2520&format=png&auto=webp&s=e949a2b16c0e3a3e77e26611933da02920e46ac1",
+          "https://preview.redd.it/nwrtlja5w9gb1.png?width=2520&format=png&auto=webp&s=36d8c88562b80d3e5b725bf0440cef9e84c3582f",
+          "https://preview.redd.it/1p4c3ha5w9gb1.png?width=2520&format=png&auto=webp&s=7295943fcd279b967ce43834cff191f6775efd6e",
+          "https://preview.redd.it/re481la5w9gb1.png?width=2520&format=png&auto=webp&s=eaba12efc457bd3f38d6281b7e4cfcba6ebd98d8"
+        ]
+      }
+    },
+    "64": {
+      "title": "64",
+      "volume": "",
+      "last_updated": "1773549249",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/cqem5v4lunhb1.png?width=2520&format=png&auto=webp&s=9e6c87450580c7249ea0ea5feaa6c0d887aa22c5",
+          "https://preview.redd.it/fxls2u4lunhb1.png?width=2520&format=png&auto=webp&s=dc491023274971f88d9b26263e3ddc0f3f6c5509",
+          "https://preview.redd.it/wl4jww4lunhb1.png?width=2520&format=png&auto=webp&s=f6925ad58404bc9fb7cecc582acee24730949127",
+          "https://preview.redd.it/q6y8ku4lunhb1.png?width=2520&format=png&auto=webp&s=619212f77a84e6f6691ffeb1567d85416040d65a"
+        ]
+      }
+    },
+    "65": {
+      "title": "65",
+      "volume": "",
+      "last_updated": "1773549286",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/r32ds01xy8jb1.png?width=2520&format=png&auto=webp&s=cc01c5417ae81e92445f4560b2fb186b0ff0cc69",
+          "https://preview.redd.it/zbhj7w0xy8jb1.png?width=800&format=png&auto=webp&s=4d1b1598c4e09024abf78f5204a983540030dc20",
+          "https://preview.redd.it/32olf11xy8jb1.png?width=2520&format=png&auto=webp&s=32e67e12728f2a3bc873600f25ddf23b8c0ef44f"
+        ]
+      }
+    },
+    "66": {
+      "title": "66",
+      "volume": "",
+      "last_updated": "1773549303",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/rb4iv6arrfkb1.png?width=2160&format=png&auto=webp&s=31dbff27a30f4c0021b001d88bec7e3ee4a13c23",
+          "https://preview.redd.it/ebd3679rrfkb1.png?width=2160&format=png&auto=webp&s=3f8d51c3f2e9cd4674ed4a98a7ff1e8dbf90a928",
+          "https://preview.redd.it/r5iwn69rrfkb1.png?width=2160&format=png&auto=webp&s=e87e0798309b35bb2b09b001ff7d49f9e8868e3b"
+        ]
+      }
+    },
+    "67": {
+      "title": "67",
+      "volume": "",
+      "last_updated": "1773549319",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/e37umimdrtlb1.png?width=2520&format=png&auto=webp&s=d6abb781bbbd0b28f2ded2ad881766025e0f7a15",
+          "https://preview.redd.it/85sgkfmdrtlb1.png?width=2520&format=png&auto=webp&s=d0f89b4ece18604f1ba19b4d09f7d20a2cdc86fa",
+          "https://preview.redd.it/cjt67gmdrtlb1.png?width=2520&format=png&auto=webp&s=245ab055c555d8b3e1ec8c80c2e58d6c686205fa"
+        ]
+      }
+    },
+    "68": {
+      "title": "68",
+      "volume": "",
+      "last_updated": "1773549334",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/zdj8fy88blob1.png?width=800&format=png&auto=webp&s=b87609dd2dc8b214e9ce3a4b79431b8a2c9ae6bb",
+          "https://preview.redd.it/18sfnv88blob1.png?width=800&format=png&auto=webp&s=019823593fe876700b354fc2858dc888d793ce4d",
+          "https://preview.redd.it/i2xxqv88blob1.png?width=800&format=png&auto=webp&s=a10bac3513500f7298866009bc11a6f079cad77c",
+          "https://preview.redd.it/z4offw88blob1.png?width=800&format=png&auto=webp&s=c63b6f1264335149e77e9e087f1ecc6025e1ab53",
+          "https://preview.redd.it/al8m2m98blob1.png?width=800&format=png&auto=webp&s=13000c50d97079d397aabe1e37929d4eb393216b"
+        ]
+      }
+    },
+    "69": {
+      "title": "69",
+      "volume": "",
+      "last_updated": "1773549355",
+      "groups": {
+        "Colm's Comics": [
+          "https://preview.redd.it/gbnbhheklzpb1.png?width=800&format=png&auto=webp&s=44ef704c3f248c36e8eb245c5ff4f8c7d91033f2",
+          "https://preview.redd.it/i9maqgeklzpb1.png?width=800&format=png&auto=webp&s=02a2eefdd42ba73fb74ca33c86dbf68a7d303921",
+          "https://preview.redd.it/kp02ageklzpb1.png?width=800&format=png&auto=webp&s=661b0953100bc1e7152c6363209c24401aec099a",
+          "https://preview.redd.it/sir4jfeklzpb1.png?width=800&format=png&auto=webp&s=54fadf6e5a332ebf561fce0135f44a4eefdc5fde",
+          "https://preview.redd.it/4otai5fklzpb1.png?width=800&format=png&auto=webp&s=a12db577a3915367bec638235a09ae3d320620b2"
         ]
       }
     }
