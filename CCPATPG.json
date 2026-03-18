@@ -7,14 +7,15 @@
   "chapters": {
     "1": {
       "title": "1",
-      "volume": "",
+      "volume": "test",
       "last_updated": "1773509572",
       "groups": {
         "Colm's Comics": [
           "https://i.redd.it/v6cfskywg34a1.png",
           "https://i.redd.it/se4uobsyg34a1.png"
         ]
-      }
+      },
+      "releaseLink": "https://"
     },
     "2": {
       "title": "2",
